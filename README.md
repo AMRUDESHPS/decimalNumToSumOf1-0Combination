@@ -27,3 +27,7 @@ Enter a number: 245
 
 1 1 1 10 10 100 100 100 100 
 Sum = 422
+
+
+
+##AI generated readme file may contain fault.
